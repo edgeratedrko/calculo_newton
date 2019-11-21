@@ -3,3 +3,4 @@ Trabalho efetuado na matéria de cálculo numérico, pelos alunos Mikael Talvany
 
 Para executar a aplicação, baixar o .jar que se encontra no repositório e executá-lo.
 
+Vídeo explicando o código e demonstrando a aplicação: https://youtu.be/XrnCdShucM4
